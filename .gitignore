@@ -1,0 +1,12 @@
+/.vscode
+/.idea
+node_modules
+
+.DS_Store
+*.db
+*.bak
+*.tmp
+*.cmd
+~*
+
+npm-debug.log
