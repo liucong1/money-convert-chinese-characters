@@ -1,8 +1,9 @@
 {
     "name": "money-convert-chinese-characters",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Converting English Numbers into Chinese Characters",
     "main": "dist/index.js",
+    "keywords": ["Chinese Characters","零壹贰叁肆伍陆柒捌玖"],
     "scripts": {
         "compile": "babel index.js -d dist/",
         "prepublish": "npm run compile"
